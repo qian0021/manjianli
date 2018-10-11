@@ -2163,7 +2163,7 @@
   left:0px;
   top:0px;
   width:104px;
-  white-space:nowrap;
+  word-wrap:break-word;
 }
 #u132_div {
   border-width:0px;
